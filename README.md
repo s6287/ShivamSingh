@@ -67,7 +67,7 @@ I'm open to discussing Full-Stack and Frontend opportunities where I can contrib
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
+## 📈 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -75,7 +75,6 @@ I'm open to discussing Full-Stack and Frontend opportunities where I can contrib
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=s6287&theme=tokyonight&hide_border=true)
 
-</div>
 
 ---
 
