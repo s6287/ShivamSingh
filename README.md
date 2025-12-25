@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20React%20•%20Node.js%20•%20System%20Design&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shivam%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20React%20•%20Node.js%20•%20System%20Design&descAlignY=55&descAlign=50&descSize=18"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=s6287&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=s6287&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
-<a href="https://iamshivam.42web.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://iamshivam.42web.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shiivmrajput/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shivamsinghsrs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;1%2B+Year+Production+Experience;React+%7C+Next.js+%7C+Node.js+Expert;Open+to+New+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=650&lines=Building+Scalable+Web+Applications;1%2B+Year+Production+Experience;React+%7C+Next.js+%7C+Node.js+Expert;Open+to+New+Opportunities!" alt="Typing SVG" />
 
 </div>
 
@@ -145,13 +145,19 @@ Built a comprehensive analytics platform for an event management company to trac
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=667eea&dates=9f9f9f" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=s6287&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=9f9f9f&langs_count=8&count_private=true&hide=html,css" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s6287&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=s6287&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=9f9f9f&area_color=667eea&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -160,17 +166,21 @@ Built a comprehensive analytics platform for an event management company to trac
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=s6287&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=s6287&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -204,7 +214,7 @@ Built a comprehensive analytics platform for an event management company to trac
 <br/>
 
 <a href="https://iamshivam.42web.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-667eea?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/shiivmrajput/" target="_blank">
   <img src="https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -215,10 +225,10 @@ Built a comprehensive analytics platform for an event management company to trac
 
 <br/><br/>
 
-### ⭐ Enjoyed my work? Star my repositories!
+### ⭐ If you like my work, consider starring my repositories!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 </div>
