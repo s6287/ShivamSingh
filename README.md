@@ -17,10 +17,11 @@ I'm a **Full-Stack Developer** specializing in building performant, user-centric
 
 ## 🚀 Recent Work & Impact
 
-- **Internal Dashboards (PMS/CRM):** Architected and developed role-based access control systems with React, reducing manual workflows and improving team productivity
-- **SEO & Performance:** Implemented automated SEO strategies and performance optimizations that enhanced page load times and search rankings
-- **Scalable UI Development:** Built reusable component libraries with React and Tailwind CSS, accelerating feature delivery across multiple projects
-- **WordPress Solutions:** Delivered custom WordPress development with PHP integrations for client-specific requirements
+- **Project Management System (PMS):** Built an enterprise-grade internal system (similar to Jira/Wrike) that unified 8+ departments (SEO, Web, CRM, MIS, Accounts, IT) into a single platform. Implemented role-based access control with React.js and Supabase, enabling task assignment, ticket management, and real-time work tracking—transforming a previously untracked workflow into a systemized operation visible to all stakeholders from team members to CEO.
+
+- **SEO Automation Pipeline:** Engineered an automated data pipeline that reduced SEO reporting time from 1 week to under 1 hour. Built scheduled workflows using Edge Functions and Cron jobs to fetch client rankings (weekly/monthly), GA4 organic users, and GSC clicks/impressions—automatically generating comparison insights and eliminating manual Excel maintenance for the entire SEO team.
+
+- **Customer Analytics Dashboard:** Developed a multi-touchpoint tracking dashboard for an event management company using React.js. Created a source attribution system (Google Ads, Facebook, referrals) that tracks customer journey across multiple events, implements version control for repeat attendees, and identifies high-engagement customers for membership conversion—providing full visibility into customer acquisition and retention patterns.
 
 ---
 
@@ -65,9 +66,15 @@ I'm open to discussing Full-Stack and Frontend opportunities where I can contrib
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
