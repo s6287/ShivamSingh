@@ -145,18 +145,8 @@ Built a comprehensive analytics platform for an event management company to trac
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=667eea&dates=9f9f9f" alt="GitHub Streak"/>
-</div>
-
-
-<br/>
-
-<div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=s6287&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=9f9f9f&area_color=667eea&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
-
 
 ---
 
@@ -164,11 +154,7 @@ Built a comprehensive analytics platform for an event management company to trac
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
