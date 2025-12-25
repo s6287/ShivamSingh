@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Shivam Singh
-
-### Full-Stack Developer | Building Scalable Web Solutions
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20React%20•%20Node.js%20•%20System%20Design&descAlignY=51&descAlign=50"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s6287&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamshivam.42web.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiivmrajput/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamsinghsrs@gmail.com)
+<a href="https://iamshivam.42web.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shiivmrajput/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shivamsinghsrs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;1%2B+Year+Production+Experience;React+%7C+Next.js+%7C+Node.js+Expert;Open+to+New+Opportunities!" alt="Typing SVG" />
 
 </div>
 
@@ -19,54 +19,90 @@
 ```javascript
 const shivam = {
     location: "Mumbai, India 🇮🇳",
-    role: "Associate Web Developer @ Rath Infotech",
-    experience: "1+ year building production systems",
-    currentFocus: ["System Design", "React Optimization", "DSA"],
+    company: "Rath Infotech",
+    role: "Associate Web Developer",
+    experience: "1+ year in production systems",
+    expertise: ["React.js", "Next.js", "Node.js", "System Design"],
+    currentFocus: ["Performance Optimization", "DSA", "Scalable Architecture"],
     openTo: "Full-Stack / React Developer roles",
     noticePeriod: "30 days",
-    funFact: "Turned 1-week manual processes into 1-hour automation ⚡"
+    code: ["JavaScript", "HTML/CSS", "SQL", "PHP"],
+    tools: ["Git", "Postman", "VS Code", "WordPress"],
+    databases: ["MongoDB", "MySQL", "Supabase"],
+    funFact: "Reduced manual work from 1 week to 1 hour ⚡"
 };
 ```
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Professional Impact
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Project Management System
-Built an enterprise PMS (like Jira) that unified **8+ departments** with role-based access using **React.js + Supabase**. Transformed untracked workflows into a systemized operation visible from team members to CEO.
+### 🎯 Enterprise PMS (Project Management System)
+**Tech Stack:** React.js • Supabase • Role-Based Access Control
 
-**Impact:** Complete workflow transparency & productivity boost
+Built an internal system similar to **Jira/Wrike** that unified **8+ departments** (SEO, Web, CRM, MIS, Accounts, IT) into one platform.
+
+**Key Features:**
+- ✅ Task assignment & tracking
+- ✅ Ticket management system
+- ✅ Real-time collaboration
+- ✅ Department-wise dashboards
+
+**Impact:** Transformed untracked workflows into systemized operations with complete visibility from team level to CEO.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ SEO Automation Pipeline
-Engineered automated data pipeline using **Edge Functions + Cron** that reduced SEO reporting from **1 week → 1 hour**. Auto-fetches rankings, GA4 metrics, GSC data with comparison insights.
+**Tech Stack:** Edge Functions • Cron Jobs • Google APIs
 
-**Impact:** Eliminated manual Excel maintenance for entire team
+Engineered an automated data pipeline for SEO team that fetches client rankings, GA4 metrics, and GSC data automatically.
+
+**Key Features:**
+- ✅ Weekly/monthly ranking reports
+- ✅ Automated GA4 analytics
+- ✅ GSC clicks & impressions tracking
+- ✅ Comparison insights dashboard
+
+**Impact:** Reduced reporting time from **1 week → 1 hour**, eliminating manual Excel maintenance.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Customer Analytics Dashboard
-Built multi-touchpoint tracking system in **React.js** for event management company. Tracks customer journey across events, implements version control for repeat attendees, identifies high-value customers for membership conversion.
+**Tech Stack:** React.js • Multi-Touchpoint Tracking
 
-**Impact:** Full visibility into customer acquisition & retention
+Built a comprehensive analytics platform for an event management company to track customer journey across multiple events.
+
+**Key Features:**
+- ✅ Source attribution (Google Ads, Facebook, etc.)
+- ✅ Customer touchpoint tracking
+- ✅ Event attendance versioning
+- ✅ High-value customer identification
+
+**Impact:** Enabled data-driven membership conversion strategy with full customer acquisition visibility.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Currently Building
-- React projects focused on **system design patterns**
-- **Database optimization**: efficient queries, reduced DB calls
-- **Performance optimization**: lazy loading, memoization, virtual scrolling
-- Daily **DSA practice** on LeetCode
+### 🔨 Currently Building & Learning
+
+**Active Projects:**
+- 🚀 System design focused React applications
+- ⚡ Performance optimization techniques
+- 🗄️ Database query optimization
+
+**Skills in Progress:**
+- 💻 Data Structures & Algorithms (LeetCode daily)
+- 🎯 Advanced React patterns & hooks
+- 🔧 Efficient state management
+- 📦 Code splitting & lazy loading
 
 </td>
 </tr>
@@ -74,11 +110,11 @@ Built multi-touchpoint tracking system in **React.js** for event management comp
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,14 +122,16 @@ Built multi-touchpoint tracking system in **React.js** for event management comp
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -104,65 +142,83 @@ Built multi-touchpoint tracking system in **React.js** for event management comp
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=s6287&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=s6287&theme=tokyo-night&hide_border=true&area=true" />
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=s6287&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Snake
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=s6287&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+  
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Skills & Expertise
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/s6287/s6287/output/github-contribution-grid-snake-dark.svg)
+### Core Competencies
+
+`Component Architecture` • `RESTful APIs` • `Authentication & Authorization` • `Performance Optimization`  
+`Responsive Design` • `SEO Optimization` • `Database Query Optimization` • `State Management`  
+`React Hooks` • `Server-Side Rendering` • `API Integration` • `Git Workflow` • `Agile Development`
 
 </div>
 
 ---
 
-## 💡 Core Competencies
+## 📫 Connect With Me
 
 <div align="center">
 
-`Component Architecture` • `RESTful APIs` • `Authentication & Authorization` • `Performance Optimization` • `Responsive Design` • `SEO` • `Database Query Optimization` • `State Management` • `React Hooks` • `Server-Side Rendering`
+### 🚀 Open to Full-Stack & React Developer Opportunities
 
-</div>
+**📍 Location:** Mumbai, India  
+**💼 Experience:** 1+ Year in Production Systems  
+**🕐 Notice Period:** 30 Days  
+**💬 Status:** Actively Interviewing
 
----
+<br/>
 
-## 🤝 Let's Connect
+<a href="https://iamshivam.42web.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/shiivmrajput/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shivamsinghsrs@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-**🔍 Open to Full-Stack / React Developer opportunities**  
-**📍 Mumbai, India • 🕐 Notice Period: 30 days**
+### ⭐ Enjoyed my work? Star my repositories!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://iamshivam.42web.io/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shiivmrajput/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail)](mailto:shivamsinghsrs@gmail.com)
+<br/>
 
----
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-![](https://hit.yhype.me/github/profile?user_id=s6287)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
