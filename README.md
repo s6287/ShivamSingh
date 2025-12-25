@@ -149,10 +149,6 @@ Built a comprehensive analytics platform for an event management company to trac
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=s6287&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=667eea&dates=9f9f9f" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=9f9f9f&langs_count=8&count_private=true&hide=html,css" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s6287&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
 
 <br/>
 
@@ -160,15 +156,7 @@ Built a comprehensive analytics platform for an event management company to trac
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=s6287&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=9f9f9f&area_color=667eea&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=s6287&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
