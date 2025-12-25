@@ -1,54 +1,74 @@
-# Hi 👋, I'm Shivam Singh, a Passionate Web Developer  
+# Shivam Singh | Full-Stack Web Developer
 
-I am an enthusiastic **web developer** with a strong focus on **frontend development**.  
-I specialize in **React, JavaScript, and modern UI frameworks**.
+**Building scalable web applications with modern JavaScript frameworks and a product-first mindset.**
 
-My primary goal is to build **efficient, scalable, and user-friendly web applications** using **cutting-edge technologies**.
-
-Whether it's **developing responsive websites**, **optimizing performance**, or **enhancing UI/UX**, I love solving real-world problems through **clean and maintainable code**.
+Currently shipping production-ready features at **Rath Infotech** | 1+ year of hands-on development experience | Open to Full-Stack & Frontend opportunities at product-based companies.
 
 ---
 
-## **🚀 What I'm Working On**
-- 🔭 I’m currently working on **a News Blog Website**.
-- 🌱 I’m currently learning **React, useReducer, DSA, and WordPress SEO**.
-- 👨‍💻 I work as an **Associate Web Developer at Rath Infotech**.
-- 💬 Ask me about **React, Web Performance Optimization, and SEO**.
+## 👨‍💻 What I Do
+
+I'm a **Full-Stack Developer** specializing in building performant, user-centric web applications. My work spans from architecting frontend interfaces with React and Next.js to designing backend systems that scale.
+
+**Current Role:** Associate Web Developer @ Rath Infotech  
+**Focus Areas:** Frontend Engineering, Full-Stack Development, Performance Optimization
 
 ---
 
-## **💻 Languages and Tools**
+## 🚀 Recent Work & Impact
 
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **Internal Dashboards (PMS/CRM):** Architected and developed role-based access control systems with React, reducing manual workflows and improving team productivity
+- **SEO & Performance:** Implemented automated SEO strategies and performance optimizations that enhanced page load times and search rankings
+- **Scalable UI Development:** Built reusable component libraries with React and Tailwind CSS, accelerating feature delivery across multiple projects
+- **WordPress Solutions:** Delivered custom WordPress development with PHP integrations for client-specific requirements
 
 ---
 
-### **📈 GitHub Stats**
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-singh&show_icons=true&theme=radical)
+## 🎯 What I'm Working On
+
+- Deepening expertise in **system design** and **scalable architecture patterns**
+- Building production-grade projects with **Next.js** and **Node.js**
+- Exploring **TypeScript** and **modern state management** solutions
+- Actively interviewing for **Full-Stack / React Developer roles** at product companies
 
 ---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+React · Next.js · JavaScript · Tailwind CSS · HTML5 · CSS3
+
+**Backend**  
+Node.js · Express.js
+
+**Database**  
+MongoDB · MySQL
+
+**Tools & Workflow**  
+Git · GitHub · Postman · VS Code · WordPress
+
+**Core Competencies**  
+Component Architecture · RESTful APIs · Authentication & Authorization · Performance Optimization · Responsive Design · SEO
+
+---
+
+## 📫 Let's Connect
+
+I'm open to discussing Full-Stack and Frontend opportunities where I can contribute to building impactful products.
+
+**Portfolio:** [iamshivam.42web.io](https://iamshivam.42web.io/)  
+**LinkedIn:** [linkedin.com/in/shiivmrajput](https://www.linkedin.com/in/shiivmrajput/)  
+**Email:** shivamsinghsrs@gmail.com  
+**Location:** Mumbai, India
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6287&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6287&layout=compact&theme=radical&hide_border=true)
+
+---
+
+**Open to opportunities** | **Available for interviews** | **Notice period: Immediate/negotiable**
